@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Dev</string>
+    <string name="loading">加载中</string>
+    <string name="ac_select_album_num">%d/9</string>
+    <!--XRecyclerview-->
+    <string name="xrecyclerview_header_hint_normal">pull to refresh</string>
+    <string name="xrecyclerview_header_hint_release">release to start refresh</string>
+    <string name="xrecyclerview_loading">加载中…</string>
+    <string name="nomore_loading">暂无更多</string>
+    <string name="refreshing">refreshing…</string>
+    <string name="refresh_done">refresh done</string>
+    <string name="xrecyclerview_header_last_time">last update：</string>
+    <string name="gravity_left">left</string>
+    <string name="gravity_center">center</string>
+    <string name="gravity_right">right</string>
+</resources>

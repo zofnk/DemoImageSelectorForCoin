@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="BLACK">#ff000000</color>
+    <color name="alarm_gray_color">#CACACA</color>
+    <color name="app_main_color">#fff34842</color>
+    <color name="background_normal">#f7f3f2</color>
+    <color name="background_tab_pressed">#aaff5c5e</color>
+    <color name="base_bg_color">#f0f2f5</color>
+    <color name="base_bg_gray_color">#F0EFF5</color>
+    <color name="base_blue">#2F93F1</color>
+    <color name="base_blue_color">#688FB0</color>
+    <color name="base_green">#00F500</color>
+    <color name="base_red">#F50000</color>
+    <color name="base_text_gray_color">#7c7b7b</color>
+    <color name="black">#ff000000</color>
+    <color name="book_ground_list_normal_bg">#f2f2f2</color>
+    <color name="btn_red_white_color">#ffd2e9</color>
+    <color name="delete_dialog_bg">#f8f8f8</color>
+    <color name="dialog_botton_gray">#F7F3F2</color>
+    <color name="dividedline">#eae2e4</color>
+    <color name="game_main_bg_color">#ececec</color>
+    <color name="game_select_text_color">#9298a3</color>
+    <color name="game_website_listitem_color">#373737</color>
+    <color name="gray">#808080</color>
+    <color name="heragency_base_red_color">#FFA9D4</color>
+    <color name="heragency_base_red_pressed_color">#FF99CC</color>
+    <color name="item_text_color_red">#FF5B5F</color>
+    <color name="line_gray">#cccccc</color>
+    <color name="orange">#ffF6BA42</color>
+    <color name="red">#FF0000</color>
+    <color name="toast_bg">#9930302e</color>
+    <color name="transparent">#00000000</color>
+    <color name="white">#ffffffff</color>
+    <color name="yellow">#fba934</color>
+    <declare-styleable name="AVLoadingIndicatorView"><attr name="indicator"><flag name="BallPulse" value="0"/><flag name="BallGridPulse" value="1"/><flag name="BallClipRotate" value="2"/><flag name="BallClipRotatePulse" value="3"/><flag name="SquareSpin" value="4"/><flag name="BallClipRotateMultiple" value="5"/><flag name="BallPulseRise" value="6"/><flag name="BallRotate" value="7"/><flag name="CubeTransition" value="8"/><flag name="BallZigZag" value="9"/><flag name="BallZigZagDeflect" value="10"/><flag name="BallTrianglePath" value="11"/><flag name="BallScale" value="12"/><flag name="LineScale" value="13"/><flag name="LineScaleParty" value="14"/><flag name="BallScaleMultiple" value="15"/><flag name="BallPulseSync" value="16"/><flag name="BallBeat" value="17"/><flag name="LineScalePulseOut" value="18"/><flag name="LineScalePulseOutRapid" value="19"/><flag name="BallScaleRipple" value="20"/><flag name="BallScaleRippleMultiple" value="21"/><flag name="BallSpinFadeLoader" value="22"/><flag name="LineSpinFadeLoader" value="23"/><flag name="TriangleSkewSpin" value="24"/><flag name="Pacman" value="25"/><flag name="BallGridBeat" value="26"/><flag name="SemiCircleSpin" value="27"/></attr><attr format="color" name="indicator_color"/></declare-styleable>
+    <declare-styleable name="CircleImageView"><attr format="dimension" name="civ_border_width"/><attr format="color" name="civ_border_color"/><attr format="boolean" name="civ_border_overlay"/><attr format="color" name="civ_fill_color"/></declare-styleable>
+    <declare-styleable name="MyWalletBrokenline"><attr format="dimension" name="point_stroke_r"/><attr format="color" name="point_stroke_color"/><attr format="dimension" name="line_topbom_width"/><attr format="color" name="line_topbom_color"/><attr format="dimension" name="line_width"/><attr format="color" name="line_color"/><attr format="dimension" name="text_size"/><attr format="color" name="text_color"/></declare-styleable>
+    <declare-styleable name="PagerIndicatorLine"><attr format="color" name="lineselectedColor"/><attr format="color" name="unlineselectedColor"/><attr format="dimension" name="textselectedColor"/><attr format="dimension" name="untextselectedColor"/><attr format="dimension" name="textInterval"/><attr format="dimension" name="textmarginTop"/><attr format="dimension" name="linemarginTop"/><attr format="dimension" name="lineHight"/></declare-styleable>
+    <declare-styleable name="PagerSlidingTabStrip"><attr format="color" name="pstsIndicatorColor"/><attr format="color" name="pstsUnderlineColor"/><attr format="color" name="pstsDividerColor"/><attr format="dimension" name="pstsIndicatorHeight"/><attr format="dimension" name="pstsUnderlineHeight"/><attr format="dimension" name="pstsDividerPadding"/><attr format="dimension" name="pstsTabPaddingLeftRight"/><attr format="dimension" name="pstsScrollOffset"/><attr format="reference" name="pstsTabBackground"/><attr format="boolean" name="pstsShouldExpand"/><attr format="boolean" name="pstsTextAllCaps"/><attr format="dimension" name="TabTextSize"/><attr format="color" name="TabTextColor"/><attr format="dimension" name="SelectedTabTextSize"/><attr format="color" name="SelectedTabTextColor"/></declare-styleable>
+    <declare-styleable name="SlidingMenu"><attr name="mode"><enum name="left" value="0"/><enum name="right" value="1"/></attr><attr format="reference" name="viewAbove"/><attr format="reference" name="viewBehind"/><attr format="dimension" name="behindOffset"/><attr format="dimension" name="behindWidth"/><attr format="float" name="behindScrollScale"/><attr name="touchModeAbove"><enum name="margin" value="0"/><enum name="fullscreen" value="1"/><enum name="none" value="2"/></attr><attr name="touchModeBehind"><enum name="margin" value="0"/><enum name="fullscreen" value="1"/><enum name="none" value="2"/></attr><attr format="reference" name="shadowDrawable"/><attr format="dimension" name="shadowWidth"/><attr format="boolean" name="fadeEnabled"/><attr format="float" name="fadeDegree"/><attr format="boolean" name="selectorEnabled"/><attr format="reference" name="selectorDrawable"/></declare-styleable>
+    <declare-styleable name="SwitchButton"><attr format="reference" name="onDrawable"/><attr format="reference" name="offDrawable"/><attr format="reference" name="thumbDrawable"/><attr format="dimension|reference" name="thumb_margin"/><attr format="dimension|reference" name="thumb_marginTop"/><attr format="dimension|reference" name="thumb_marginBottom"/><attr format="dimension|reference" name="thumb_marginLeft"/><attr format="dimension|reference" name="thumb_marginRight"/><attr format="dimension|reference" name="thumb_width"/><attr format="dimension|reference" name="thumb_height"/><attr format="color|reference" name="onColor"/><attr format="color|reference" name="offColor"/><attr format="color|reference" name="thumbColor"/><attr format="color|reference" name="thumbPressedColor"/><attr format="integer" name="animationVelocity"/><attr format="integer" name="sbradius"/><attr format="float" name="measureFactor"/><attr format="dimension|reference" name="insetLeft"/><attr format="dimension|reference" name="insetRight"/><attr format="dimension|reference" name="insetTop"/><attr format="dimension|reference" name="insetBottom"/></declare-styleable>
+    <declare-styleable name="TagFlowLayout"><attr format="boolean" name="auto_select_effect"/><attr format="integer" name="max_select"/><attr format="string" name="gravity"/></declare-styleable>
+    <declare-styleable name="ViewPagerIndicator"><attr format="color" name="selectedColor"/><attr format="dimension" name="strokeWidth"/><attr format="color" name="unselectedColor"/><attr format="dimension" name="radius"/></declare-styleable>
+    <dimen name="banner_hight">100dp</dimen>
+    <dimen name="dialog_radius">10dp</dimen>
+    <dimen name="emoji_hight_width">21dp</dimen>
+    <dimen name="font_dialog_text">18dip</dimen>
+    <dimen name="xrecyclerview_textmargin">10dp</dimen>
+    <item name="selected_view" type="id"/>
+    <string name="ac_select_album_num">%d/9</string>
+    <string name="app_name">Dev</string>
+    <string name="gravity_center">center</string>
+    <string name="gravity_left">left</string>
+    <string name="gravity_right">right</string>
+    <string name="loading">加载中</string>
+    <string name="nomore_loading">暂无更多</string>
+    <string name="refresh_done">refresh done</string>
+    <string name="refreshing">refreshing…</string>
+    <string name="xrecyclerview_header_hint_normal">pull to refresh</string>
+    <string name="xrecyclerview_header_hint_release">release to start refresh</string>
+    <string name="xrecyclerview_header_last_time">last update：</string>
+    <string name="xrecyclerview_loading">加载中…</string>
+    <style name="AnimationActivity" parent="@android:style/Animation.Activity">
+        <item name="android:activityOpenEnterAnimation">@anim/anim_activity_in</item>
+        <item name="android:activityOpenExitAnimation">@anim/anim_activity_out</item>
+        <item name="android:activityCloseEnterAnimation">@anim/anim_activity_close_in</item>
+        <item name="android:activityCloseExitAnimation">@anim/anim_activity_close_out</item>
+    </style>
+</resources>

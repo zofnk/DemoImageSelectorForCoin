@@ -1,0 +1,10 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+
+    <style name="AnimationActivity" parent="@android:style/Animation.Activity">
+        <item name="android:activityOpenEnterAnimation">@anim/anim_activity_in</item>
+        <item name="android:activityOpenExitAnimation">@anim/anim_activity_out</item>
+        <item name="android:activityCloseEnterAnimation">@anim/anim_activity_close_in</item>
+        <item name="android:activityCloseExitAnimation">@anim/anim_activity_close_out</item>
+    </style>
+</resources>

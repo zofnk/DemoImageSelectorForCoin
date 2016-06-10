@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="E:\AndroidProject\Demo_ImageSelector\dev\src\main\assets"><file name="hack.apk" path="E:\AndroidProject\Demo_ImageSelector\dev\src\main\assets\hack.apk"/></source><source path="E:\AndroidProject\Demo_ImageSelector\dev\build\generated\assets\shaders\release"/></dataSet><dataSet config="release"><source path="E:\AndroidProject\Demo_ImageSelector\dev\src\release\assets"/></dataSet></merger>

@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <RelativeLayout
+        android:id="@+id/ac_preview_title"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/actionbar_hight"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:background="@color/app_main_color">
+
+        <ImageView
+            android:id="@+id/ac_preview_title_back"
+            android:layout_width="@dimen/actionbar_hight"
+            android:layout_height="match_parent"
+            android:layout_centerVertical="true"
+            android:scaleType="center"
+            android:src="@drawable/titlebar_back_normal" />
+
+        <TextView
+            android:id="@+id/ac_preview_title_text"
+            style="@style/titlebar_center_text"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_centerHorizontal="true"
+            android:layout_centerVertical="true"
+            android:gravity="center"
+            android:text="@string/ac_select_album_num" />
+    </RelativeLayout>
+
+
+    <android.support.v4.view.ViewPager
+        android:id="@+id/ac_preview_title_pager"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_above="@+id/ac_preview_bottom"
+        android:layout_below="@+id/ac_preview_title"
+        android:layout_centerHorizontal="true"
+        android:layout_centerVertical="true" />
+
+    <RelativeLayout
+        android:id="@+id/ac_preview_bottom"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/ac_select_album_bottom_hight"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:background="@drawable/line_gray_normal_top">
+
+        <CheckBox
+            android:id="@+id/ac_preview_bottom_check"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="10dp"
+            android:button="@drawable/cb_select_album_album"
+            android:checked="true" />
+
+        <TextView
+            android:id="@+id/ac_preview_bottom_enter"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:layout_marginRight="15dp"
+            android:gravity="center"
+            android:text="完成"
+            android:textColor="@color/app_main_color"
+            android:textSize="15dp" />
+    </RelativeLayout>
+
+</RelativeLayout>

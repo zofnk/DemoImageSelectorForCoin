@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="base_green">#00F500</color>
+    <color name="base_red">#F50000</color>
+    <color name="base_blue">#2F93F1</color>
+    <color name="transparent">#00000000</color>
+    <color name="white">#ffffffff</color>
+    <color name="black">#ff000000</color>
+    <color name="BLACK">#ff000000</color>
+    <color name="orange">#ffF6BA42</color>
+    <color name="yellow">#fba934</color>
+    <color name="red">#FF0000</color>
+    <color name="book_ground_list_normal_bg">#f2f2f2</color>
+    <color name="gray">#808080</color>
+    <color name="dialog_botton_gray">#F7F3F2</color>
+    <color name="base_bg_color">#f0f2f5</color>
+    <color name="base_text_gray_color">#7c7b7b</color>
+    <color name="toast_bg">#9930302e</color>
+    <color name="base_bg_gray_color">#F0EFF5</color>
+    <color name="alarm_gray_color">#CACACA</color>
+    <color name="base_blue_color">#688FB0</color>
+
+    <!-- 其他工程颜色值 -->
+    <color name="game_select_text_color">#9298a3</color>
+    <color name="game_main_bg_color">#ececec</color>
+    <color name="heragency_base_red_color">#FFA9D4</color>
+    <color name="heragency_base_red_pressed_color">#FF99CC</color>
+    <color name="btn_red_white_color">#ffd2e9</color>
+    <color name="game_website_listitem_color">#373737</color>
+    <color name="background_normal">#f7f3f2</color>
+    <!--删除dialog背景色-->
+    <color name="delete_dialog_bg">#f8f8f8</color>
+    <color name="dividedline">#eae2e4</color>
+    <color name="app_main_color">#fff34842</color>
+    <color name="line_gray">#cccccc</color>
+    <color name="background_tab_pressed">#aaff5c5e</color>
+    <color name="item_text_color_red">#FF5B5F</color>
+</resources>
