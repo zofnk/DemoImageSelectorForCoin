@@ -1,198 +1,198 @@
 [
     {
-        "merged": "E:\\AndroidProject\\Demo_ImageSelector\\dev\\build\\intermediates\\res\\merged\\release\\drawable\\abc_item_background_holo_dark.xml",
-        "source": "E:\\AndroidProject\\Demo_ImageSelector\\dev\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable\\abc_item_background_holo_dark.xml"
+        "merged": "E:\\AndroidProject\\DemoImageSelectorForCoin\\dev\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ic_go_search_api_material.xml",
+        "source": "E:\\AndroidProject\\DemoImageSelectorForCoin\\dev\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable\\abc_ic_go_search_api_material.xml"
     },
     {
-        "merged": "E:\\AndroidProject\\Demo_ImageSelector\\dev\\build\\intermediates\\res\\merged\\release\\drawable\\design_fab_background.xml",
-        "source": "E:\\AndroidProject\\Demo_ImageSelector\\dev\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.2.0\\res\\drawable\\design_fab_background.xml"
+        "merged": "E:\\AndroidProject\\DemoImageSelectorForCoin\\dev\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ratingbar_full_material.xml",
+        "source": "E:\\AndroidProject\\DemoImageSelectorForCoin\\dev\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable\\abc_ratingbar_full_material.xml"
     },
     {
-        "merged": "E:\\AndroidProject\\Demo_ImageSelector\\dev\\build\\intermediates\\res\\merged\\release\\drawable\\abc_item_background_holo_light.xml",
-        "source": "E:\\AndroidProject\\Demo_ImageSelector\\dev\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable\\abc_item_background_holo_light.xml"
+        "merged": "E:\\AndroidProject\\DemoImageSelectorForCoin\\dev\\build\\intermediates\\res\\merged\\release\\drawable\\abc_seekbar_track_material.xml",
+        "source": "E:\\AndroidProject\\DemoImageSelectorForCoin\\dev\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable\\abc_seekbar_track_material.xml"
     },
     {
-        "merged": "E:\\AndroidProject\\Demo_ImageSelector\\dev\\build\\intermediates\\res\\merged\\release\\drawable\\abc_edit_text_material.xml",
-        "source": "E:\\AndroidProject\\Demo_ImageSelector\\dev\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable\\abc_edit_text_material.xml"
+        "merged": "E:\\AndroidProject\\DemoImageSelectorForCoin\\dev\\build\\intermediates\\res\\merged\\release\\drawable\\divide_line_grid.xml",
+        "source": "E:\\AndroidProject\\DemoImageSelectorForCoin\\dev\\src\\main\\res\\drawable\\divide_line_grid.xml"
     },
     {
-        "merged": "E:\\AndroidProject\\Demo_ImageSelector\\dev\\build\\intermediates\\res\\merged\\release\\drawable\\abc_seekbar_track_material.xml",
-        "source": "E:\\AndroidProject\\Demo_ImageSelector\\dev\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable\\abc_seekbar_track_material.xml"
+        "merged": "E:\\AndroidProject\\DemoImageSelectorForCoin\\dev\\build\\intermediates\\res\\merged\\release\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "E:\\AndroidProject\\DemoImageSelectorForCoin\\dev\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
     },
     {
-        "merged": "E:\\AndroidProject\\Demo_ImageSelector\\dev\\build\\intermediates\\res\\merged\\release\\drawable\\abc_textfield_search_material.xml",
-        "source": "E:\\AndroidProject\\Demo_ImageSelector\\dev\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable\\abc_textfield_search_material.xml"
+        "merged": "E:\\AndroidProject\\DemoImageSelectorForCoin\\dev\\build\\intermediates\\res\\merged\\release\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "E:\\AndroidProject\\DemoImageSelectorForCoin\\dev\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable\\abc_spinner_textfield_background_material.xml"
     },
     {
-        "merged": "E:\\AndroidProject\\Demo_ImageSelector\\dev\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ic_menu_cut_material.xml",
-        "source": "E:\\AndroidProject\\Demo_ImageSelector\\dev\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable\\abc_ic_menu_cut_material.xml"
+        "merged": "E:\\AndroidProject\\DemoImageSelectorForCoin\\dev\\build\\intermediates\\res\\merged\\release\\drawable\\abc_tab_indicator_material.xml",
+        "source": "E:\\AndroidProject\\DemoImageSelectorForCoin\\dev\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable\\abc_tab_indicator_material.xml"
     },
     {
-        "merged": "E:\\AndroidProject\\Demo_ImageSelector\\dev\\build\\intermediates\\res\\merged\\release\\drawable\\toast_bg.xml",
-        "source": "E:\\AndroidProject\\Demo_ImageSelector\\dev\\src\\main\\res\\drawable\\toast_bg.xml"
+        "merged": "E:\\AndroidProject\\DemoImageSelectorForCoin\\dev\\build\\intermediates\\res\\merged\\release\\drawable\\toast_bg.xml",
+        "source": "E:\\AndroidProject\\DemoImageSelectorForCoin\\dev\\src\\main\\res\\drawable\\toast_bg.xml"
     },
     {
-        "merged": "E:\\AndroidProject\\Demo_ImageSelector\\dev\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ratingbar_full_material.xml",
-        "source": "E:\\AndroidProject\\Demo_ImageSelector\\dev\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable\\abc_ratingbar_full_material.xml"
+        "merged": "E:\\AndroidProject\\DemoImageSelectorForCoin\\dev\\build\\intermediates\\res\\merged\\release\\drawable\\line_gray_normal_bottom.xml",
+        "source": "E:\\AndroidProject\\DemoImageSelectorForCoin\\dev\\src\\main\\res\\drawable\\line_gray_normal_bottom.xml"
     },
     {
-        "merged": "E:\\AndroidProject\\Demo_ImageSelector\\dev\\build\\intermediates\\res\\merged\\release\\drawable\\abc_switch_thumb_material.xml",
-        "source": "E:\\AndroidProject\\Demo_ImageSelector\\dev\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable\\abc_switch_thumb_material.xml"
+        "merged": "E:\\AndroidProject\\DemoImageSelectorForCoin\\dev\\build\\intermediates\\res\\merged\\release\\drawable\\line_gray_normal_top.xml",
+        "source": "E:\\AndroidProject\\DemoImageSelectorForCoin\\dev\\src\\main\\res\\drawable\\line_gray_normal_top.xml"
     },
     {
-        "merged": "E:\\AndroidProject\\Demo_ImageSelector\\dev\\build\\intermediates\\res\\merged\\release\\drawable\\line_gray_normal_top.xml",
-        "source": "E:\\AndroidProject\\Demo_ImageSelector\\dev\\src\\main\\res\\drawable\\line_gray_normal_top.xml"
+        "merged": "E:\\AndroidProject\\DemoImageSelectorForCoin\\dev\\build\\intermediates\\res\\merged\\release\\drawable\\abc_btn_radio_material.xml",
+        "source": "E:\\AndroidProject\\DemoImageSelectorForCoin\\dev\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable\\abc_btn_radio_material.xml"
     },
     {
-        "merged": "E:\\AndroidProject\\Demo_ImageSelector\\dev\\build\\intermediates\\res\\merged\\release\\drawable\\abc_btn_default_mtrl_shape.xml",
-        "source": "E:\\AndroidProject\\Demo_ImageSelector\\dev\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+        "merged": "E:\\AndroidProject\\DemoImageSelectorForCoin\\dev\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ic_clear_material.xml",
+        "source": "E:\\AndroidProject\\DemoImageSelectorForCoin\\dev\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable\\abc_ic_clear_material.xml"
     },
     {
-        "merged": "E:\\AndroidProject\\Demo_ImageSelector\\dev\\build\\intermediates\\res\\merged\\release\\drawable\\line_gray_normal_bottom.xml",
-        "source": "E:\\AndroidProject\\Demo_ImageSelector\\dev\\src\\main\\res\\drawable\\line_gray_normal_bottom.xml"
+        "merged": "E:\\AndroidProject\\DemoImageSelectorForCoin\\dev\\build\\intermediates\\res\\merged\\release\\drawable\\bg_dialog.xml",
+        "source": "E:\\AndroidProject\\DemoImageSelectorForCoin\\dev\\src\\main\\res\\drawable\\bg_dialog.xml"
     },
     {
-        "merged": "E:\\AndroidProject\\Demo_ImageSelector\\dev\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ic_ab_back_material.xml",
-        "source": "E:\\AndroidProject\\Demo_ImageSelector\\dev\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable\\abc_ic_ab_back_material.xml"
+        "merged": "E:\\AndroidProject\\DemoImageSelectorForCoin\\dev\\build\\intermediates\\res\\merged\\release\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "E:\\AndroidProject\\DemoImageSelectorForCoin\\dev\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
     },
     {
-        "merged": "E:\\AndroidProject\\Demo_ImageSelector\\dev\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ic_go_search_api_material.xml",
-        "source": "E:\\AndroidProject\\Demo_ImageSelector\\dev\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable\\abc_ic_go_search_api_material.xml"
+        "merged": "E:\\AndroidProject\\DemoImageSelectorForCoin\\dev\\build\\intermediates\\res\\merged\\release\\drawable\\abc_textfield_search_material.xml",
+        "source": "E:\\AndroidProject\\DemoImageSelectorForCoin\\dev\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable\\abc_textfield_search_material.xml"
     },
     {
-        "merged": "E:\\AndroidProject\\Demo_ImageSelector\\dev\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ic_menu_overflow_material.xml",
-        "source": "E:\\AndroidProject\\Demo_ImageSelector\\dev\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable\\abc_ic_menu_overflow_material.xml"
+        "merged": "E:\\AndroidProject\\DemoImageSelectorForCoin\\dev\\build\\intermediates\\res\\merged\\release\\drawable\\abc_item_background_holo_light.xml",
+        "source": "E:\\AndroidProject\\DemoImageSelectorForCoin\\dev\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable\\abc_item_background_holo_light.xml"
     },
     {
-        "merged": "E:\\AndroidProject\\Demo_ImageSelector\\dev\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ic_menu_share_material.xml",
-        "source": "E:\\AndroidProject\\Demo_ImageSelector\\dev\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable\\abc_ic_menu_share_material.xml"
+        "merged": "E:\\AndroidProject\\DemoImageSelectorForCoin\\dev\\build\\intermediates\\res\\merged\\release\\drawable\\abc_btn_checkbox_checked_mtrl.xml",
+        "source": "E:\\AndroidProject\\DemoImageSelectorForCoin\\dev\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable\\abc_btn_checkbox_checked_mtrl.xml"
     },
     {
-        "merged": "E:\\AndroidProject\\Demo_ImageSelector\\dev\\build\\intermediates\\res\\merged\\release\\drawable\\abc_btn_checkbox_unchecked_mtrl.xml",
-        "source": "E:\\AndroidProject\\Demo_ImageSelector\\dev\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable\\abc_btn_checkbox_unchecked_mtrl.xml"
+        "merged": "E:\\AndroidProject\\DemoImageSelectorForCoin\\dev\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ic_menu_copy_material.xml",
+        "source": "E:\\AndroidProject\\DemoImageSelectorForCoin\\dev\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable\\abc_ic_menu_copy_material.xml"
     },
     {
-        "merged": "E:\\AndroidProject\\Demo_ImageSelector\\dev\\build\\intermediates\\res\\merged\\release\\drawable\\abc_cab_background_top_material.xml",
-        "source": "E:\\AndroidProject\\Demo_ImageSelector\\dev\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable\\abc_cab_background_top_material.xml"
+        "merged": "E:\\AndroidProject\\DemoImageSelectorForCoin\\dev\\build\\intermediates\\res\\merged\\release\\drawable\\design_snackbar_background.xml",
+        "source": "E:\\AndroidProject\\DemoImageSelectorForCoin\\dev\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.2.0\\res\\drawable\\design_snackbar_background.xml"
     },
     {
-        "merged": "E:\\AndroidProject\\Demo_ImageSelector\\dev\\build\\intermediates\\res\\merged\\release\\drawable\\abc_tab_indicator_material.xml",
-        "source": "E:\\AndroidProject\\Demo_ImageSelector\\dev\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable\\abc_tab_indicator_material.xml"
+        "merged": "E:\\AndroidProject\\DemoImageSelectorForCoin\\dev\\build\\intermediates\\res\\merged\\release\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "E:\\AndroidProject\\DemoImageSelectorForCoin\\dev\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
     },
     {
-        "merged": "E:\\AndroidProject\\Demo_ImageSelector\\dev\\build\\intermediates\\res\\merged\\release\\drawable\\abc_btn_radio_off_mtrl.xml",
-        "source": "E:\\AndroidProject\\Demo_ImageSelector\\dev\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable\\abc_btn_radio_off_mtrl.xml"
+        "merged": "E:\\AndroidProject\\DemoImageSelectorForCoin\\dev\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ic_menu_paste_material.xml",
+        "source": "E:\\AndroidProject\\DemoImageSelectorForCoin\\dev\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable\\abc_ic_menu_paste_material.xml"
     },
     {
-        "merged": "E:\\AndroidProject\\Demo_ImageSelector\\dev\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ic_voice_search_api_material.xml",
-        "source": "E:\\AndroidProject\\Demo_ImageSelector\\dev\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable\\abc_ic_voice_search_api_material.xml"
+        "merged": "E:\\AndroidProject\\DemoImageSelectorForCoin\\dev\\build\\intermediates\\res\\merged\\release\\drawable\\abc_dialog_material_background_light.xml",
+        "source": "E:\\AndroidProject\\DemoImageSelectorForCoin\\dev\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable\\abc_dialog_material_background_light.xml"
     },
     {
-        "merged": "E:\\AndroidProject\\Demo_ImageSelector\\dev\\build\\intermediates\\res\\merged\\release\\drawable\\abc_btn_colored_material.xml",
-        "source": "E:\\AndroidProject\\Demo_ImageSelector\\dev\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable\\abc_btn_colored_material.xml"
+        "merged": "E:\\AndroidProject\\DemoImageSelectorForCoin\\dev\\build\\intermediates\\res\\merged\\release\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "E:\\AndroidProject\\DemoImageSelectorForCoin\\dev\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable\\abc_list_selector_holo_light.xml"
     },
     {
-        "merged": "E:\\AndroidProject\\Demo_ImageSelector\\dev\\build\\intermediates\\res\\merged\\release\\drawable\\abc_seekbar_thumb_material.xml",
-        "source": "E:\\AndroidProject\\Demo_ImageSelector\\dev\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable\\abc_seekbar_thumb_material.xml"
+        "merged": "E:\\AndroidProject\\DemoImageSelectorForCoin\\dev\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ic_menu_overflow_material.xml",
+        "source": "E:\\AndroidProject\\DemoImageSelectorForCoin\\dev\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable\\abc_ic_menu_overflow_material.xml"
     },
     {
-        "merged": "E:\\AndroidProject\\Demo_ImageSelector\\dev\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ic_menu_paste_material.xml",
-        "source": "E:\\AndroidProject\\Demo_ImageSelector\\dev\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable\\abc_ic_menu_paste_material.xml"
+        "merged": "E:\\AndroidProject\\DemoImageSelectorForCoin\\dev\\build\\intermediates\\res\\merged\\release\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "E:\\AndroidProject\\DemoImageSelectorForCoin\\dev\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable\\abc_list_selector_holo_dark.xml"
     },
     {
-        "merged": "E:\\AndroidProject\\Demo_ImageSelector\\dev\\build\\intermediates\\res\\merged\\release\\drawable\\abc_btn_radio_material.xml",
-        "source": "E:\\AndroidProject\\Demo_ImageSelector\\dev\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable\\abc_btn_radio_material.xml"
+        "merged": "E:\\AndroidProject\\DemoImageSelectorForCoin\\dev\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "E:\\AndroidProject\\DemoImageSelectorForCoin\\dev\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable\\abc_ratingbar_indicator_material.xml"
     },
     {
-        "merged": "E:\\AndroidProject\\Demo_ImageSelector\\dev\\build\\intermediates\\res\\merged\\release\\drawable\\abc_dialog_material_background_dark.xml",
-        "source": "E:\\AndroidProject\\Demo_ImageSelector\\dev\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable\\abc_dialog_material_background_dark.xml"
+        "merged": "E:\\AndroidProject\\DemoImageSelectorForCoin\\dev\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "E:\\AndroidProject\\DemoImageSelectorForCoin\\dev\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable\\abc_ratingbar_small_material.xml"
     },
     {
-        "merged": "E:\\AndroidProject\\Demo_ImageSelector\\dev\\build\\intermediates\\res\\merged\\release\\drawable\\abc_dialog_material_background_light.xml",
-        "source": "E:\\AndroidProject\\Demo_ImageSelector\\dev\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable\\abc_dialog_material_background_light.xml"
+        "merged": "E:\\AndroidProject\\DemoImageSelectorForCoin\\dev\\build\\intermediates\\res\\merged\\release\\drawable\\abc_edit_text_material.xml",
+        "source": "E:\\AndroidProject\\DemoImageSelectorForCoin\\dev\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable\\abc_edit_text_material.xml"
     },
     {
-        "merged": "E:\\AndroidProject\\Demo_ImageSelector\\dev\\build\\intermediates\\res\\merged\\release\\drawable\\bg_biankuang.xml",
-        "source": "E:\\AndroidProject\\Demo_ImageSelector\\dev\\src\\main\\res\\drawable\\bg_biankuang.xml"
+        "merged": "E:\\AndroidProject\\DemoImageSelectorForCoin\\dev\\build\\intermediates\\res\\merged\\release\\drawable\\abc_btn_radio_off_mtrl.xml",
+        "source": "E:\\AndroidProject\\DemoImageSelectorForCoin\\dev\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable\\abc_btn_radio_off_mtrl.xml"
     },
     {
-        "merged": "E:\\AndroidProject\\Demo_ImageSelector\\dev\\build\\intermediates\\res\\merged\\release\\drawable\\abc_btn_radio_on_mtrl.xml",
-        "source": "E:\\AndroidProject\\Demo_ImageSelector\\dev\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable\\abc_btn_radio_on_mtrl.xml"
+        "merged": "E:\\AndroidProject\\DemoImageSelectorForCoin\\dev\\build\\intermediates\\res\\merged\\release\\drawable\\abc_btn_radio_on_mtrl.xml",
+        "source": "E:\\AndroidProject\\DemoImageSelectorForCoin\\dev\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable\\abc_btn_radio_on_mtrl.xml"
     },
     {
-        "merged": "E:\\AndroidProject\\Demo_ImageSelector\\dev\\build\\intermediates\\res\\merged\\release\\drawable\\background_tab.xml",
-        "source": "E:\\AndroidProject\\Demo_ImageSelector\\dev\\src\\main\\res\\drawable\\background_tab.xml"
+        "merged": "E:\\AndroidProject\\DemoImageSelectorForCoin\\dev\\build\\intermediates\\res\\merged\\release\\drawable\\abc_switch_thumb_material.xml",
+        "source": "E:\\AndroidProject\\DemoImageSelectorForCoin\\dev\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable\\abc_switch_thumb_material.xml"
     },
     {
-        "merged": "E:\\AndroidProject\\Demo_ImageSelector\\dev\\build\\intermediates\\res\\merged\\release\\drawable\\bg_dialog.xml",
-        "source": "E:\\AndroidProject\\Demo_ImageSelector\\dev\\src\\main\\res\\drawable\\bg_dialog.xml"
+        "merged": "E:\\AndroidProject\\DemoImageSelectorForCoin\\dev\\build\\intermediates\\res\\merged\\release\\drawable\\abc_text_cursor_material.xml",
+        "source": "E:\\AndroidProject\\DemoImageSelectorForCoin\\dev\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable\\abc_text_cursor_material.xml"
     },
     {
-        "merged": "E:\\AndroidProject\\Demo_ImageSelector\\dev\\build\\intermediates\\res\\merged\\release\\drawable\\abc_cab_background_internal_bg.xml",
-        "source": "E:\\AndroidProject\\Demo_ImageSelector\\dev\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable\\abc_cab_background_internal_bg.xml"
+        "merged": "E:\\AndroidProject\\DemoImageSelectorForCoin\\dev\\build\\intermediates\\res\\merged\\release\\drawable\\abc_dialog_material_background_dark.xml",
+        "source": "E:\\AndroidProject\\DemoImageSelectorForCoin\\dev\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable\\abc_dialog_material_background_dark.xml"
     },
     {
-        "merged": "E:\\AndroidProject\\Demo_ImageSelector\\dev\\build\\intermediates\\res\\merged\\release\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
-        "source": "E:\\AndroidProject\\Demo_ImageSelector\\dev\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+        "merged": "E:\\AndroidProject\\DemoImageSelectorForCoin\\dev\\build\\intermediates\\res\\merged\\release\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "E:\\AndroidProject\\DemoImageSelectorForCoin\\dev\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable\\abc_seekbar_thumb_material.xml"
     },
     {
-        "merged": "E:\\AndroidProject\\Demo_ImageSelector\\dev\\build\\intermediates\\res\\merged\\release\\drawable\\abc_list_selector_holo_dark.xml",
-        "source": "E:\\AndroidProject\\Demo_ImageSelector\\dev\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable\\abc_list_selector_holo_dark.xml"
+        "merged": "E:\\AndroidProject\\DemoImageSelectorForCoin\\dev\\build\\intermediates\\res\\merged\\release\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "E:\\AndroidProject\\DemoImageSelectorForCoin\\dev\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable\\abc_cab_background_internal_bg.xml"
     },
     {
-        "merged": "E:\\AndroidProject\\Demo_ImageSelector\\dev\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ic_clear_material.xml",
-        "source": "E:\\AndroidProject\\Demo_ImageSelector\\dev\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable\\abc_ic_clear_material.xml"
+        "merged": "E:\\AndroidProject\\DemoImageSelectorForCoin\\dev\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ic_menu_share_material.xml",
+        "source": "E:\\AndroidProject\\DemoImageSelectorForCoin\\dev\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable\\abc_ic_menu_share_material.xml"
     },
     {
-        "merged": "E:\\AndroidProject\\Demo_ImageSelector\\dev\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ic_menu_selectall_material.xml",
-        "source": "E:\\AndroidProject\\Demo_ImageSelector\\dev\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable\\abc_ic_menu_selectall_material.xml"
+        "merged": "E:\\AndroidProject\\DemoImageSelectorForCoin\\dev\\build\\intermediates\\res\\merged\\release\\drawable\\abc_btn_borderless_material.xml",
+        "source": "E:\\AndroidProject\\DemoImageSelectorForCoin\\dev\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable\\abc_btn_borderless_material.xml"
     },
     {
-        "merged": "E:\\AndroidProject\\Demo_ImageSelector\\dev\\build\\intermediates\\res\\merged\\release\\drawable\\design_snackbar_background.xml",
-        "source": "E:\\AndroidProject\\Demo_ImageSelector\\dev\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.2.0\\res\\drawable\\design_snackbar_background.xml"
+        "merged": "E:\\AndroidProject\\DemoImageSelectorForCoin\\dev\\build\\intermediates\\res\\merged\\release\\drawable\\abc_btn_check_material.xml",
+        "source": "E:\\AndroidProject\\DemoImageSelectorForCoin\\dev\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable\\abc_btn_check_material.xml"
     },
     {
-        "merged": "E:\\AndroidProject\\Demo_ImageSelector\\dev\\build\\intermediates\\res\\merged\\release\\drawable\\abc_btn_checkbox_checked_mtrl.xml",
-        "source": "E:\\AndroidProject\\Demo_ImageSelector\\dev\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable\\abc_btn_checkbox_checked_mtrl.xml"
+        "merged": "E:\\AndroidProject\\DemoImageSelectorForCoin\\dev\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ic_ab_back_material.xml",
+        "source": "E:\\AndroidProject\\DemoImageSelectorForCoin\\dev\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable\\abc_ic_ab_back_material.xml"
     },
     {
-        "merged": "E:\\AndroidProject\\Demo_ImageSelector\\dev\\build\\intermediates\\res\\merged\\release\\drawable\\abc_list_selector_holo_light.xml",
-        "source": "E:\\AndroidProject\\Demo_ImageSelector\\dev\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable\\abc_list_selector_holo_light.xml"
+        "merged": "E:\\AndroidProject\\DemoImageSelectorForCoin\\dev\\build\\intermediates\\res\\merged\\release\\drawable\\bg_biankuang.xml",
+        "source": "E:\\AndroidProject\\DemoImageSelectorForCoin\\dev\\src\\main\\res\\drawable\\bg_biankuang.xml"
     },
     {
-        "merged": "E:\\AndroidProject\\Demo_ImageSelector\\dev\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ratingbar_indicator_material.xml",
-        "source": "E:\\AndroidProject\\Demo_ImageSelector\\dev\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+        "merged": "E:\\AndroidProject\\DemoImageSelectorForCoin\\dev\\build\\intermediates\\res\\merged\\release\\drawable\\abc_btn_checkbox_unchecked_mtrl.xml",
+        "source": "E:\\AndroidProject\\DemoImageSelectorForCoin\\dev\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable\\abc_btn_checkbox_unchecked_mtrl.xml"
     },
     {
-        "merged": "E:\\AndroidProject\\Demo_ImageSelector\\dev\\build\\intermediates\\res\\merged\\release\\drawable\\abc_text_cursor_material.xml",
-        "source": "E:\\AndroidProject\\Demo_ImageSelector\\dev\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable\\abc_text_cursor_material.xml"
+        "merged": "E:\\AndroidProject\\DemoImageSelectorForCoin\\dev\\build\\intermediates\\res\\merged\\release\\drawable\\abc_btn_colored_material.xml",
+        "source": "E:\\AndroidProject\\DemoImageSelectorForCoin\\dev\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable\\abc_btn_colored_material.xml"
     },
     {
-        "merged": "E:\\AndroidProject\\Demo_ImageSelector\\dev\\build\\intermediates\\res\\merged\\release\\drawable\\abc_btn_borderless_material.xml",
-        "source": "E:\\AndroidProject\\Demo_ImageSelector\\dev\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable\\abc_btn_borderless_material.xml"
+        "merged": "E:\\AndroidProject\\DemoImageSelectorForCoin\\dev\\build\\intermediates\\res\\merged\\release\\drawable\\design_fab_background.xml",
+        "source": "E:\\AndroidProject\\DemoImageSelectorForCoin\\dev\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.2.0\\res\\drawable\\design_fab_background.xml"
     },
     {
-        "merged": "E:\\AndroidProject\\Demo_ImageSelector\\dev\\build\\intermediates\\res\\merged\\release\\drawable\\abc_spinner_textfield_background_material.xml",
-        "source": "E:\\AndroidProject\\Demo_ImageSelector\\dev\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+        "merged": "E:\\AndroidProject\\DemoImageSelectorForCoin\\dev\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ic_menu_selectall_material.xml",
+        "source": "E:\\AndroidProject\\DemoImageSelectorForCoin\\dev\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable\\abc_ic_menu_selectall_material.xml"
     },
     {
-        "merged": "E:\\AndroidProject\\Demo_ImageSelector\\dev\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ic_menu_copy_material.xml",
-        "source": "E:\\AndroidProject\\Demo_ImageSelector\\dev\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable\\abc_ic_menu_copy_material.xml"
+        "merged": "E:\\AndroidProject\\DemoImageSelectorForCoin\\dev\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ic_voice_search_api_material.xml",
+        "source": "E:\\AndroidProject\\DemoImageSelectorForCoin\\dev\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable\\abc_ic_voice_search_api_material.xml"
     },
     {
-        "merged": "E:\\AndroidProject\\Demo_ImageSelector\\dev\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ratingbar_small_material.xml",
-        "source": "E:\\AndroidProject\\Demo_ImageSelector\\dev\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable\\abc_ratingbar_small_material.xml"
+        "merged": "E:\\AndroidProject\\DemoImageSelectorForCoin\\dev\\build\\intermediates\\res\\merged\\release\\drawable\\background_tab.xml",
+        "source": "E:\\AndroidProject\\DemoImageSelectorForCoin\\dev\\src\\main\\res\\drawable\\background_tab.xml"
     },
     {
-        "merged": "E:\\AndroidProject\\Demo_ImageSelector\\dev\\build\\intermediates\\res\\merged\\release\\drawable\\divide_line_grid.xml",
-        "source": "E:\\AndroidProject\\Demo_ImageSelector\\dev\\src\\main\\res\\drawable\\divide_line_grid.xml"
+        "merged": "E:\\AndroidProject\\DemoImageSelectorForCoin\\dev\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ic_menu_cut_material.xml",
+        "source": "E:\\AndroidProject\\DemoImageSelectorForCoin\\dev\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable\\abc_ic_menu_cut_material.xml"
     },
     {
-        "merged": "E:\\AndroidProject\\Demo_ImageSelector\\dev\\build\\intermediates\\res\\merged\\release\\drawable\\abc_list_selector_background_transition_holo_light.xml",
-        "source": "E:\\AndroidProject\\Demo_ImageSelector\\dev\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+        "merged": "E:\\AndroidProject\\DemoImageSelectorForCoin\\dev\\build\\intermediates\\res\\merged\\release\\drawable\\abc_cab_background_top_material.xml",
+        "source": "E:\\AndroidProject\\DemoImageSelectorForCoin\\dev\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable\\abc_cab_background_top_material.xml"
     },
     {
-        "merged": "E:\\AndroidProject\\Demo_ImageSelector\\dev\\build\\intermediates\\res\\merged\\release\\drawable\\abc_btn_check_material.xml",
-        "source": "E:\\AndroidProject\\Demo_ImageSelector\\dev\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable\\abc_btn_check_material.xml"
+        "merged": "E:\\AndroidProject\\DemoImageSelectorForCoin\\dev\\build\\intermediates\\res\\merged\\release\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "E:\\AndroidProject\\DemoImageSelectorForCoin\\dev\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable\\abc_item_background_holo_dark.xml"
     }
 ]

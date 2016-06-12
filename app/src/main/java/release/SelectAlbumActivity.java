@@ -317,7 +317,6 @@ public class SelectAlbumActivity extends BaseActivity {
     }
 
     private void showPopupWindow(View view) {
-
         // 一个自定义的布局，作为显示的内容
         View contentView = LayoutInflater.from(this).inflate(
                 R.layout.pop_selectalbum, null);
