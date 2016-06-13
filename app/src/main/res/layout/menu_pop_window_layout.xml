@@ -18,30 +18,29 @@
 		<TextView
 			android:id="@+id/btn_take_photo"
 			android:layout_width="fill_parent"
-			android:layout_height="44dp"
+			android:layout_height="60dp"
 			android:gravity="center"
-			android:text="拍照"
-			android:textColor="#444444"
-			android:textSize="19dp" />
+			android:text="@string/text_menu_pop_window_takephoto"
+			android:textColor="@color/text_color_black_select"
+			android:textSize="@dimen/size_menu_pop_window_text" />
 
 		<TextView
 			android:id="@+id/btn_pick_photo"
 			android:layout_width="fill_parent"
-			android:layout_height="44dp"
-			android:background="@drawable/bg_biankuang"
+			android:layout_height="60dp"
 			android:gravity="center"
-			android:text="从相册中选择"
-			android:textColor="#444444"
-			android:textSize="19dp" />
+			android:text="@string/text_menu_pop_window_selectphoto"
+			android:textColor="@color/text_color_black_select"
+			android:textSize="@dimen/size_menu_pop_window_text" />
 
 
 		<TextView
 			android:id="@+id/btn_cancel"
 			android:layout_width="fill_parent"
-			android:layout_height="44dp"
+			android:layout_height="60dp"
 			android:gravity="center"
-			android:text="取消"
-			android:textColor="#444444"
-			android:textSize="19dp" />
+			android:text="@string/text_menu_pop_window_cannel"
+			android:textColor="@color/text_color_black_select"
+			android:textSize="@dimen/size_menu_pop_window_text" />
 	</LinearLayout>
 </RelativeLayout>

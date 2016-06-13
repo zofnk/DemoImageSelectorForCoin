@@ -13,7 +13,6 @@ import android.support.v7.widget.GridLayoutManager;
 import android.support.v7.widget.LinearLayoutManager;
 import android.support.v7.widget.RecyclerView;
 import android.text.TextUtils;
-import android.view.Gravity;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
@@ -42,6 +41,8 @@ import java.util.HashMap;
 import java.util.List;
 
 import sample.binvshe.com.demo_imageselector.R;
+import Constants.Constants;
+import sample.binvshe.com.demo_imageselector.ShowResultActivity;
 
 public class SelectAlbumActivity extends BaseActivity {
 
@@ -61,7 +62,6 @@ public class SelectAlbumActivity extends BaseActivity {
 
     public static final String INTENT_MAX_NUM = "intent_max_num";
     public static final String RELEASE_IMGS_NUM = "intent_img_num";
-    public static final String INTENT_SELECTED_PICTURE = "intent_selected_picture";
 
     /**
      * 临时的辅助类，用于防止同一个文件夹的多次扫描
@@ -116,12 +116,12 @@ public class SelectAlbumActivity extends BaseActivity {
     @Override
     public void initView() {
         select_num = (TextView) findViewById(R.id.ac_select_album_select_num);
-        select_num.setText(check_num + "/" + MAX_NUM);
         pic_grid = (RecyclerView) findViewById(R.id.ac_select_album_pic_list);
         album_toggle = (CheckBox) findViewById(R.id.ac_select_album_toggle);
         findViewById(R.id.ac_select_album_title_preview).setOnClickListener(this);
         findViewById(R.id.ac_select_album_cancel).setOnClickListener(this);
         findViewById(R.id.ac_select_album_pic_enter).setOnClickListener(this);
+        select_num.setText("" + check_num);
         album_toggle.setOnCheckedChangeListener(new CompoundButton.OnCheckedChangeListener() {
             @Override
             public void onCheckedChanged(CompoundButton buttonView, boolean isChecked) {
@@ -131,7 +131,7 @@ public class SelectAlbumActivity extends BaseActivity {
                 }
             }
         });
-        pic_grid.setLayoutManager(new GridLayoutManager(this, 3));
+        pic_grid.setLayoutManager(new GridLayoutManager(this, 4));
         pic_grid.setItemAnimator(new DefaultItemAnimator());
         pic_grid.addItemDecoration(new DividerGridItemDecoration(getResources().getDrawable(R.drawable.grid_recyclerview_gray)));
     }
@@ -148,13 +148,15 @@ public class SelectAlbumActivity extends BaseActivity {
                 finish();
                 break;
             case R.id.ac_select_album_pic_enter:
-                Intent intent = getIntent();
-                intent.putExtra(INTENT_SELECTED_PICTURE, selectedPicture);
-                setResult(RESULT_OK, intent);
+                //Intent intent = getIntent();
+                Intent intent = new Intent(this, ShowResultActivity.class);
+                intent.putExtra(Constants.IntentExtra.INTENT_SELECTED_PICTURE, selectedPicture);
+                //setResult(RESULT_OK, intent);
+                startActivity(intent);
                 break;
             case R.id.ac_select_album_title_preview:
                 Intent start_intent = new Intent(SelectAlbumActivity.this, PreviewActivity.class);
-                start_intent.putExtra(INTENT_SELECTED_PICTURE, selectedPicture);
+                start_intent.putExtra(Constants.IntentExtra.INTENT_SELECTED_PICTURE, selectedPicture);
                 startActivityForResult(start_intent, PREVIEW);
                 break;
             default:
@@ -208,7 +210,7 @@ public class SelectAlbumActivity extends BaseActivity {
                 check_list.put(i, false);
             }
             check_num = 0;
-            select_num.setText(check_num + "/" + MAX_NUM);
+            select_num.setText(check_num + "");
             notifyDataSetChanged();
         }
 
@@ -227,7 +229,7 @@ public class SelectAlbumActivity extends BaseActivity {
                     if (check_list.get(i)) {
                         check_num--;
                         holder.cb.setImageResource(R.drawable.select_album_album_no);
-                        select_num.setText(check_num + "/" + MAX_NUM);
+                        select_num.setText("" + check_num);
                         check_list.put(i, !check_list.get(i));
                         selectedPicture.remove(images.get(i));
                     } else {
@@ -235,8 +237,8 @@ public class SelectAlbumActivity extends BaseActivity {
                             Toast.makeText(SelectAlbumActivity.this, "最多选择" + MAX_NUM + "张", Toast.LENGTH_SHORT).show();
                         } else {
                             check_num++;
-                            holder.cb.setImageResource(R.drawable.select_album_album_yes);
-                            select_num.setText(check_num + "/" + MAX_NUM);
+                            holder.cb.setImageResource(R.drawable.select_album_album_yes1);
+                            select_num.setText(check_num + "");
                             check_list.put(i, !check_list.get(i));
                             selectedPicture.add(images.get(i));
                         }
@@ -245,9 +247,9 @@ public class SelectAlbumActivity extends BaseActivity {
             };
 
             if (check_list.get(i)) {
-                holder.cb.setImageResource(R.drawable.select_album_album_yes);
+                holder.cb.setImageResource(R.drawable.select_album_album_yes1);
             } else {
-                holder.cb.setImageResource(R.drawable.select_album_album_no);
+                holder.cb.setImageResource(R.drawable.select_album_album_no1);
             }
 
 
@@ -299,10 +301,10 @@ public class SelectAlbumActivity extends BaseActivity {
             final AlbumAdapter.ViewHolder holder = (AlbumAdapter.ViewHolder) viewHolder;
             if (i == 0) {
                 holder.album.setText(imageAll.getName());
-                holder.num.setText(imageAll.images.size() + "");
+                holder.num.setText("( " + imageAll.images.size() + " )");
             } else {
                 holder.album.setText(mDirPaths.get(i - 1).getName());
-                holder.num.setText(mDirPaths.get(i - 1).images.size() + "");
+                holder.num.setText("( " + mDirPaths.get(i - 1).images.size() + " )");
             }
 
         }
@@ -322,15 +324,12 @@ public class SelectAlbumActivity extends BaseActivity {
                 R.layout.pop_selectalbum, null);
         RecyclerView selectalbum_list = (RecyclerView) contentView.findViewById(R.id.rc_pop_selectalbum_list);
         selectalbum_list.setLayoutManager(new LinearLayoutManager(this));
-
         if (album_adapter == null) {
             album_adapter = new AlbumAdapter();
         }
         selectalbum_list.setAdapter(album_adapter);
-
-
         final PopupWindow popupWindow = new PopupWindow(contentView,
-                DimensionsUtil.dip2px(200, this), DimensionsUtil.dip2px(200, this), true);
+                DimensionsUtil.dip2px(190, this), DimensionsUtil.dip2px(300, this), true);
 
         popupWindow.setTouchable(true);
 
@@ -344,13 +343,12 @@ public class SelectAlbumActivity extends BaseActivity {
 
         // 如果不设置PopupWindow的背景，无论是点击外部区域还是Back键都无法dismiss弹框
         // 我觉得这里是API的一个bug
-        popupWindow.setBackgroundDrawable(getResources().getDrawable(
-                R.drawable.bg_dialog));
-        int hight = DimensionsUtil.dip2px(112, this);
-        popupWindow.showAtLocation(view, Gravity.TOP, 0, hight);
+        popupWindow.setBackgroundDrawable(getResources().getDrawable(R.drawable.rc_pop_selectalbum_list));
+        int hight = DimensionsUtil.dip2px(-9, this);
+        //popupWindow.showAtLocation(view, Gravity.TOP, 0,0);
+        popupWindow.showAsDropDown(view, -view.getWidth() / 2, hight);
         // 设置好参数之后再show
         popupWindow.showAsDropDown(view);
-
         album_adapter.setOnItemClickLitener(new RecyclerViewAdapter.OnItemClickLitener() {
             @Override
             public void onItemClick(View views, int position) {
@@ -417,14 +415,14 @@ public class SelectAlbumActivity extends BaseActivity {
         if (cameraPath != null) {
             selectedPicture.add(cameraPath);
             Intent data2 = new Intent();
-            data2.putExtra(INTENT_SELECTED_PICTURE, selectedPicture);
+            data2.putExtra(Constants.IntentExtra.INTENT_SELECTED_PICTURE, selectedPicture);
             setResult(RESULT_OK, data2);
         }
 
         if (requestCode == PREVIEW && data != null) {
             Intent intent = getIntent();
-            ArrayList<String> imgs = (ArrayList<String>) data.getSerializableExtra(SelectAlbumActivity.INTENT_SELECTED_PICTURE);
-            intent.putExtra(INTENT_SELECTED_PICTURE, imgs);
+            ArrayList<String> imgs = (ArrayList<String>) data.getSerializableExtra(Constants.IntentExtra.INTENT_SELECTED_PICTURE);
+            intent.putExtra(Constants.IntentExtra.INTENT_SELECTED_PICTURE, imgs);
             setResult(RESULT_OK, intent);
         }
     }

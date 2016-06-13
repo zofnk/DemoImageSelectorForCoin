@@ -22,4 +22,27 @@
         <item name="android:textSize">@dimen/text_title</item>
         <item name="android:gravity">center</item>
     </style>
+    <style name="item_album_text">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">match_parent</item>
+        <item name="android:textColor">@color/white</item>
+        <item name="android:textSize">@dimen/item_album_text</item>
+        <item name="android:layout_marginLeft">@dimen/margin_item_album_text</item>
+    </style>
+    <style name="item_album_num">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">match_parent</item>
+        <item name="android:textSize">12sp</item>
+        <item name="android:text">253</item>
+
+    </style>
+    <style name="rc_pop_selectalbum_list">
+        <item name="android:layout_width">190dp</item>
+        <item name="android:layout_height">300dp</item>
+        <item name="android:layout_marginLeft">20dp</item>
+    </style>
+    <style name="item_img_ac_album">
+        <item name="android:layout_width">93dp</item>
+        <item name="android:layout_height">93dp</item>
+    </style>
 </resources>

@@ -3,5 +3,12 @@
 
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="item_album_text">All Album Photo</string>
+    <string name="checkbox_album_name">相机胶卷</string>
+    <string name="selcet_album_preview">预览</string>
+    <string name="selcet_album_finish">完成</string>
+    <string name="text_menu_pop_window_takephoto">拍照</string>
+    <string name="text_menu_pop_window_selectphoto">从相册中选择</string>
+    <string name="text_menu_pop_window_cannel">取消</string>
 
 </resources>

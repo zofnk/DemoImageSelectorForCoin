@@ -8,8 +8,7 @@
         android:id="@+id/ac_select_album_title"
         android:layout_width="match_parent"
         android:layout_height="@dimen/ac_select_album_bottom_hight"
-        android:background="@color/app_main_color">
-
+        android:background="@color/select_album_bar">
 
         <CheckBox
             android:id="@+id/ac_select_album_toggle"
@@ -18,9 +17,10 @@
             android:button="@null"
             android:checked="false"
             android:drawableRight="@drawable/btn_check_album"
-            android:text="相册"
+            android:drawablePadding="5dp"
+            android:text="@string/checkbox_album_name"
             android:textColor="@color/text_color_gray_black"
-            android:textSize="18dp"
+            android:textSize="@dimen/size_select_album_AllAublum"
             android:layout_alignParentTop="true"
             android:layout_centerHorizontal="true" />
 
@@ -32,8 +32,8 @@
             android:paddingLeft="12dp"
             android:paddingRight="12dp"
             android:text="取消"
-            android:textColor="@color/app_main_color_other"
-            android:textSize="15dp"
+            android:textColor="@color/app_main_color_cannel"
+            android:textSize="@dimen/size_select_album_btn"
             android:layout_centerVertical="true"
             android:layout_alignParentRight="true"
             android:layout_alignParentEnd="true" />
@@ -57,18 +57,19 @@
             android:gravity="right|center_vertical"
             android:paddingLeft="12dp"
             android:paddingRight="12dp"
-            android:text="完成"
-            android:textColor="@color/app_main_color_other"
-            android:textSize="15dp" />
+            android:text="@string/selcet_album_finish"
+            android:textColor="@color/select_album_btn"
+            android:textSize="@dimen/size_select_album_btn" />
 
         <TextView
             android:id="@+id/ac_select_album_select_num"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:text="@string/ac_select_album_num"
+            android:layout_width="20dp"
+            android:layout_height="20dp"
+            android:gravity="center"
             android:textColor="@color/white"
-            android:textSize="@dimen/text_normal"
+            android:textSize="@dimen/size_select_album_btn"
             android:layout_centerVertical="true"
+            android:background="@drawable/bg_circle"
             android:layout_toLeftOf="@+id/ac_select_album_pic_enter"
             android:layout_toStartOf="@+id/ac_select_album_pic_enter" />
 
@@ -76,10 +77,10 @@
             android:id="@+id/ac_select_album_title_preview"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="预览"
+            android:text="@string/selcet_album_preview"
             android:layout_marginLeft="15dp"
-            android:textColor="@color/white"
-            android:textSize="@dimen/text_normal"
+            android:textColor="@color/select_album_btn"
+            android:textSize="@dimen/size_select_album_btn"
             android:layout_alignTop="@+id/ac_select_album_select_num"
             android:layout_alignParentLeft="true"
             android:layout_alignParentStart="true" />

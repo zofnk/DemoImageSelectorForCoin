@@ -2,7 +2,6 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:id="@+id/iv_preview_item_img"
-    tools:context="com.zhishenghuoguan.zanplusapp.ui.release.PreViewItemFragment" />
+    android:id="@+id/iv_preview_item_img" />
 
 

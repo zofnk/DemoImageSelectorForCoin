@@ -14,6 +14,7 @@ import org.srr.dev.base.BaseActivity;
 
 import java.util.ArrayList;
 
+import Constants.Constants;
 import sample.binvshe.com.demo_imageselector.R;
 
 public class PreviewActivity extends BaseActivity {
@@ -25,7 +26,7 @@ public class PreviewActivity extends BaseActivity {
     @Override
     protected void initGetIntent() {
         Intent intent = getIntent();
-        ArrayList<String> imgs = (ArrayList<String>) intent.getSerializableExtra(SelectAlbumActivity.INTENT_SELECTED_PICTURE);
+        ArrayList<String> imgs = (ArrayList<String>) intent.getSerializableExtra(Constants.IntentExtra.INTENT_SELECTED_PICTURE);
         this.imgs.addAll(imgs);
         for (int i = 0; i < this.imgs.size(); i++) {
             imgs_check.add(true);
@@ -103,7 +104,7 @@ public class PreviewActivity extends BaseActivity {
                 }
                 imgs.remove(null);
                 Intent intent = getIntent();
-                intent.putExtra(SelectAlbumActivity.INTENT_SELECTED_PICTURE, imgs);
+                intent.putExtra(Constants.IntentExtra.INTENT_SELECTED_PICTURE, imgs);
                 setResult(RESULT_OK, intent);
                 break;
             default:

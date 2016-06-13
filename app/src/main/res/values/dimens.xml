@@ -6,8 +6,13 @@
     <dimen name="middle_text_size">17sp</dimen>
     <dimen name="margin_layout">16dp</dimen>
     <dimen name="margin_text">8dp</dimen>
-    <dimen name="ac_select_album_bottom_hight">50dp</dimen>
+    <dimen name="ac_select_album_bottom_hight">45dp</dimen>
     <dimen name="text_normal">15dp</dimen>
     <dimen name="actionbar_hight">48dp</dimen>
     <dimen name="text_title">18dp</dimen>
+    <dimen name="item_album_text">15sp</dimen>
+    <dimen name="margin_item_album_text">20dp</dimen>
+    <dimen name="size_select_album_btn">14sp</dimen>
+    <dimen name="size_menu_pop_window_text">15sp</dimen>
+    <dimen name="size_select_album_AllAublum">16sp</dimen>
 </resources>

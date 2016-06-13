@@ -17,4 +17,8 @@ public class Constants {
         public static final String STR6 = "str6";
         public static final String STR7 = "str7";
     }
+
+    public static class IntentExtra{
+        public static final String INTENT_SELECTED_PICTURE = "INTENT_SELECTED_PICTURE";
+    }
 }

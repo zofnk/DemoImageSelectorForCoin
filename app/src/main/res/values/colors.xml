@@ -3,11 +3,17 @@
     <color name="colorPrimary">#3F51B5</color>
     <color name="colorPrimaryDark">#303F9F</color>
     <color name="colorAccent">#FF4081</color>
-    <color name="white">#ffffff</color>
+    <color name="white">#FFFFFF</color>
     <color name="background_normal">#f7f3f2</color>
     <color name="app_main_color_other1">#FFF1F1</color>
-    <color name="app_main_color_other">#fa9b98</color>
-    <color name="text_color_gray_black">#999999</color>
-    <color name="album_line">#A7A7A7</color>
+    <color name="app_main_color_other">#353535</color>
+    <color name="app_main_color_cannel">#FFFFFF</color>
+    <color name="text_color_gray_black">#ffffff</color>
+    <color name="color_album_num">#38C0D8</color>
     <color name="line_recyclerview_1px">#ded1d5</color>
+    <color name="text_color_black_select">#000000</color>
+    <color name="bg_select_album_album">#090909</color>
+    <color name="select_album_btn">#353535</color>
+    <color name="select_album_bar">#403F3E</color>
+
 </resources>

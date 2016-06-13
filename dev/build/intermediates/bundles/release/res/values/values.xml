@@ -2,7 +2,7 @@
 <resources>
     <color name="BLACK">#ff000000</color>
     <color name="alarm_gray_color">#CACACA</color>
-    <color name="app_main_color">#fff34842</color>
+    <color name="app_main_color">#88403F3E</color>
     <color name="background_normal">#f7f3f2</color>
     <color name="background_tab_pressed">#aaff5c5e</color>
     <color name="base_bg_color">#f0f2f5</color>
@@ -30,7 +30,7 @@
     <color name="red">#FF0000</color>
     <color name="toast_bg">#9930302e</color>
     <color name="transparent">#00000000</color>
-    <color name="white">#ffffffff</color>
+    <color name="white">#ffffff</color>
     <color name="yellow">#fba934</color>
     <declare-styleable name="AVLoadingIndicatorView"><attr name="indicator"><flag name="BallPulse" value="0"/><flag name="BallGridPulse" value="1"/><flag name="BallClipRotate" value="2"/><flag name="BallClipRotatePulse" value="3"/><flag name="SquareSpin" value="4"/><flag name="BallClipRotateMultiple" value="5"/><flag name="BallPulseRise" value="6"/><flag name="BallRotate" value="7"/><flag name="CubeTransition" value="8"/><flag name="BallZigZag" value="9"/><flag name="BallZigZagDeflect" value="10"/><flag name="BallTrianglePath" value="11"/><flag name="BallScale" value="12"/><flag name="LineScale" value="13"/><flag name="LineScaleParty" value="14"/><flag name="BallScaleMultiple" value="15"/><flag name="BallPulseSync" value="16"/><flag name="BallBeat" value="17"/><flag name="LineScalePulseOut" value="18"/><flag name="LineScalePulseOutRapid" value="19"/><flag name="BallScaleRipple" value="20"/><flag name="BallScaleRippleMultiple" value="21"/><flag name="BallSpinFadeLoader" value="22"/><flag name="LineSpinFadeLoader" value="23"/><flag name="TriangleSkewSpin" value="24"/><flag name="Pacman" value="25"/><flag name="BallGridBeat" value="26"/><flag name="SemiCircleSpin" value="27"/></attr><attr format="color" name="indicator_color"/></declare-styleable>
     <declare-styleable name="CircleImageView"><attr format="dimension" name="civ_border_width"/><attr format="color" name="civ_border_color"/><attr format="boolean" name="civ_border_overlay"/><attr format="color" name="civ_fill_color"/></declare-styleable>
@@ -42,12 +42,12 @@
     <declare-styleable name="TagFlowLayout"><attr format="boolean" name="auto_select_effect"/><attr format="integer" name="max_select"/><attr format="string" name="gravity"/></declare-styleable>
     <declare-styleable name="ViewPagerIndicator"><attr format="color" name="selectedColor"/><attr format="dimension" name="strokeWidth"/><attr format="color" name="unselectedColor"/><attr format="dimension" name="radius"/></declare-styleable>
     <dimen name="banner_hight">100dp</dimen>
-    <dimen name="dialog_radius">10dp</dimen>
+    <dimen name="dialog_radius">5dp</dimen>
     <dimen name="emoji_hight_width">21dp</dimen>
     <dimen name="font_dialog_text">18dip</dimen>
     <dimen name="xrecyclerview_textmargin">10dp</dimen>
     <item name="selected_view" type="id"/>
-    <string name="ac_select_album_num">%d/9</string>
+    <string name="ac_select_album_num">%d</string>
     <string name="app_name">Dev</string>
     <string name="gravity_center">center</string>
     <string name="gravity_left">left</string>

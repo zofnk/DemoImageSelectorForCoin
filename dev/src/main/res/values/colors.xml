@@ -4,7 +4,7 @@
     <color name="base_red">#F50000</color>
     <color name="base_blue">#2F93F1</color>
     <color name="transparent">#00000000</color>
-    <color name="white">#ffffffff</color>
+    <color name="white">#ffffff</color>
     <color name="black">#ff000000</color>
     <color name="BLACK">#ff000000</color>
     <color name="orange">#ffF6BA42</color>
@@ -31,7 +31,7 @@
     <!--删除dialog背景色-->
     <color name="delete_dialog_bg">#f8f8f8</color>
     <color name="dividedline">#eae2e4</color>
-    <color name="app_main_color">#fff34842</color>
+    <color name="app_main_color">#88403F3E</color>
     <color name="line_gray">#cccccc</color>
     <color name="background_tab_pressed">#aaff5c5e</color>
     <color name="item_text_color_red">#FF5B5F</color>
